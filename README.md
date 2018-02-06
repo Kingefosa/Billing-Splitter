@@ -1,7 +1,9 @@
-A Bill Splitter based on C# 
+A Bill Splitter based on C#
+
 This is a Bill splitter that can take payment billings from multi-payers for different tripes.
 
 The Input format
+
 The input can contains multiple trips. 
 In the beginning of each trip, it have a line containing a positive number n.
 This n is the number of payers in this trip.
